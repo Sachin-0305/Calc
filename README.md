@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 !DOCTYPE html>
 <html lang="en">
 <head>
@@ -78,6 +79,7 @@ else {
 </div>
 </body>
 </html>
+```
 ## OUTPUT:
 ![Screenshot 2024-04-17 091133](https://github.com/Sachin-0305/Calc/assets/149985717/74223009-b665-401a-b62e-885ea9b9cc41)
 ![Screenshot 2024-04-17 091145](https://github.com/Sachin-0305/Calc/assets/149985717/5ff56ce8-7e30-4e25-bdd0-90840cebbdd7)
